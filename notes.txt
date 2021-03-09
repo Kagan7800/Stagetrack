@@ -1,0 +1,11 @@
+Logic should be every user is their own band. They can store songs, notes and calendar. 
+
+They can create more than one band under their user name. 
+(We make limit how many bands and charge for additional bands). 
+They can invite other users to join their band and they would have admin rights over the bands that they create. 
+(That would mean non admin band members may record and add tracks but not make edits to anything else. 
+
+If you belong to a band, you can request access was passcode. 
+But no one other that admin should have access and unless users inside room click button to allow access. 
+
+3 digit 1 letter
